@@ -1,0 +1,73 @@
+
+body
+{
+background-color: #f8f9fa!important;
+}
+.title  {
+  background-color: #4469ff !important;
+  padding: 1.5rem;
+  color: white;
+  margin-bottom: 2rem ;
+ 
+}
+.cardalink
+{
+  color: #4469ff !important;
+  text-decoration:none;
+}
+.btn-departman
+{
+  background-color:  #4469ff !important;
+  color: white;
+}
+.list
+{
+  list-style-type: none;
+ 
+}
+.navlink
+{
+  color: black;
+}
+.navlink:hover
+{
+  color: black;
+
+}
+.giriscard
+{
+  padding: 10rem;
+  
+}
+.cards
+ {
+   padding-left:5rem;
+   padding-right:5rem;
+ }
+
+
+.card-headergiris
+{
+  color: white  ;
+}
+.card-footer  p
+{
+  color:white;
+}
+.departmanadd
+{
+  background-color:#4469ff !important ;
+  color: white;
+}
+a
+{
+  text-decoration:none !important;
+}
+.logo
+{
+  filter: invert(100%) sepia(4%) saturate(12%) hue-rotate(
+    10deg
+    ) brightness(104%) contrast(100%);
+}
+
+
